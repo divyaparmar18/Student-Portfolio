@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    flex-direction: column
+  }
+  .head {
+    display: flex;
+    align-items: center 
+  }
+  .header{
+    flex : 3;
+    justify-content: flex-start;
+  }
+  .nav{
+    display: flex;
+    flex:1;
+    justify-content: space-around;
+  }
+
+   .pragraph{
+    display: flex;
+    justify-content: center;
+  } 
+  .aboutProjects{
+    display: flex;
+    justify-content: center;
+  }
+  .images {
+    display: flex;
+    flex-wrap: wrap;
+    }
+    
+  .image{
+       flex : 1; 
+       flex-direction: column;
+       justify-content: flex-end;
+      }
+
+  .fifthImage{
+   display: flex;
+     flex-direction: column;
+     justify-content: center;
+  }
+  
+  .footer{
+    display: flex;
+    justify-content:center;
+  }
+   
