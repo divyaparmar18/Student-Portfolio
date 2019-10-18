@@ -32,13 +32,11 @@ body {
   .image{
        flex : 1; 
        flex-direction: column;
-       justify-content: flex-end;
       }
 
   .fifthImage{
-   display: flex;
+     display: flex;
      flex-direction: column;
-     justify-content: center;
   }
   
   .footer{
